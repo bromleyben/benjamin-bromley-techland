@@ -1,9 +1,4 @@
 ---
-{"dg-publish":true,"dg-permalink":"true","permalink":"/true/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/my-home-page/","tags":["gardenEntry"]}
 ---
 
-I want to build a better world
-
-<div style="background-color: red; height: 100px; width: 100px;">
-	Hey, I am some content
-</div>
